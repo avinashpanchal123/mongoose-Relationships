@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-relationships",
+  "version": "1.0.0",
+  "description": "mongoose-Relationships",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashpanchal123/mongoose-Relationships.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashpanchal123/mongoose-Relationships/issues"
+  },
+  "homepage": "https://github.com/avinashpanchal123/mongoose-Relationships#readme"
+}
